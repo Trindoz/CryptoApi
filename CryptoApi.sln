@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApi", "CryptoApi\CryptoApi.csproj", "{42D3ACCA-3D24-4694-B87A-59C154B152B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoExchange", "CryptoExchange\CryptoExchange.csproj", "{BDBFEB93-E0C2-41A5-9BA0-A64412CA8BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D3ACCA-3D24-4694-B87A-59C154B152B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D3ACCA-3D24-4694-B87A-59C154B152B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D3ACCA-3D24-4694-B87A-59C154B152B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D3ACCA-3D24-4694-B87A-59C154B152B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBFEB93-E0C2-41A5-9BA0-A64412CA8BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBFEB93-E0C2-41A5-9BA0-A64412CA8BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBFEB93-E0C2-41A5-9BA0-A64412CA8BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBFEB93-E0C2-41A5-9BA0-A64412CA8BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48731A03-EB4E-4779-B701-C3C338B77317}
+	EndGlobalSection
+EndGlobal
